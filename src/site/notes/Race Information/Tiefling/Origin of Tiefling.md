@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/race-information/tiefling/origin-of-tiefling/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+[[Race Information/Race Information|Return to Race Landing Page]]
 # Tiefling
 	"Those born of the deepest pits of deceit, they alone stand as bastions of 
 	man's survivalist tendencies...and its inevitable folly." - Cathamaroon, 
