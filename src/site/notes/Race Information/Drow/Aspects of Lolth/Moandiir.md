@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/race-information/drow/aspects-of-lolth/moandiir/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+[[Race Information/Race Information|Return to Race Landing Page]]
+[[Race Information/Drow/Origin of Drow|Return to Origin of Drow]]
 # Moandiir
 	"Life and death are childish understandings of existence. Moandiir teaches 
 	that one does not end the other. Energry does not die, it merely changes 
