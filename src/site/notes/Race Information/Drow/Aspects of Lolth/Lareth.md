@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/race-information/drow/aspects-of-lolth/lareth/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+[[Race Information/Race Information|Return to Race Landing Page]]
+[[Race Information/Drow/Origin of Drow|Return to Origin of Drow]]
 # Lareth
-
 	"Lareth begets suffering. Of fire, and death, and temptation. It is within 
 	that fire that swords are forged stronger. Unwavering faith, a pillar 
 	standing resolute against waves of heresy, begets salvation from the world 
