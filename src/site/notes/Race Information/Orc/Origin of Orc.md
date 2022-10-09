@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/race-information/orc/origin-of-orc/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+[[Race Information/Race Information|Return to Race Landing Page]]
 # Orc
 	"They embody the Wild itself. To face an orc is to face nature's wrath. Best 
 	avoided, but if one cannot...prove your worth and your blood. Maybe you'll 
