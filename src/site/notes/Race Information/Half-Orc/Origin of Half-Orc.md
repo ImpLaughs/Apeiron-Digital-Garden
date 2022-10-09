@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/race-information/half-orc/origin-of-half-orc/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+[[Race Information/Race Information|Return to Race Landing Page]]
 # Half-Orc
 	"They embody the Wild in a cage. To face a half-orc is to face a storm of 
 	temptation and potential. It is best to not judge a book by its cover with 
