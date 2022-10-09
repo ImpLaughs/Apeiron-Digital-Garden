@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/race-information/drow/aspects-of-lolth/zanassu/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+[[Race Information/Race Information|Return to Race Landing Page]]
+[[Race Information/Drow/Origin of Drow|Return to Origin of Drow]]
 # Zanassu
 	"War brings us to our queen. Peace brings us to our queen. Our understanding 
 	of both gives us the honor of being her War Weavers, her chosen warriors to 
