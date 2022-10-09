@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/race-information/dragonborn/origin-of-dragonborn/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+[[Race Information/Race Information|Return to Race Landing Page]]
 # Dragonborn
 	"Our birth is of destruction and war. In our life, we choose to rise above 
 	our creators. To be better. We hold our power with restraint and honor, for 
