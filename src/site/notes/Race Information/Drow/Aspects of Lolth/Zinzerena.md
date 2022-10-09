@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/race-information/drow/aspects-of-lolth/zinzerena/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+[[Race Information/Race Information|Return to Race Landing Page]]
+[[Race Information/Drow/Origin of Drow|Return to Origin of Drow]]
 # Zinzerena
 	"We are always hunted. There is always someone stronger and we seek to rise 
 	above such limitations through trickery, deception, and shadow. We see the 
