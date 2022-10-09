@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/race-information/drow/aspects-of-lolth/megwandiir/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+[[Race Information/Race Information|Return to Race Landing Page]]
+[[Race Information/Drow/Origin of Drow|Return to Origin of Drow]]
 # Megwandiir
 	"None follow the teachings of Lolth as Megwandiir: the weak will be weeded 
 	out, and the strong shall be moreso. We are as precise as her spiders. We 
