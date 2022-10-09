@@ -3,11 +3,12 @@
 ---
 
 
-Welcome to the world of Apeiron.
+Welcome to the world of Apeiron!
 
-## [[Ages Overview|Ages Overview]]
+## [[History/History|Historical Texts]]
 ## [[Magical Lore Digital Garden|Magical Lore]]
 ## [[Monster Codex Digital Garden|Monster Codex]]
 ## [[Race Information/Race Information|Race Information]]
-## Soven'dul
-### [[Stronagia Atlas|Stronagia Atlas]]
+## Apeiron Atlas
+### Soven'dul Atlas
+#### [[Stronagia Atlas|Stronagia Atlas]]
