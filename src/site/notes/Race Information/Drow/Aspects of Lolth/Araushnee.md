@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/race-information/drow/aspects-of-lolth/araushnee/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+[[Race Information/Race Information|Return to Race Landing Page]]
+[[Race Information/Drow/Origin of Drow|Return to Origin of Drow]]
 # Araushnee
 	"The Way of Araushnee is paved with scrolls and learning. To be in 
 	Araushnee's shadow is to be in the presence of omniscence. Though we drow 
