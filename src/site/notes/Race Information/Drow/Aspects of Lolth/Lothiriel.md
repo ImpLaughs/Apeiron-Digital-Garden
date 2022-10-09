@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/race-information/drow/aspects-of-lolth/lothiriel/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+[[Race Information/Race Information|Return to Race Landing Page]]
+[[Race Information/Drow/Origin of Drow|Return to Origin of Drow]]
 # Lothiriel
-
 	"Surface walkers have tales of flying too close to the sun, but that is easy 
 	to avoid. We avoid straying too close to our savior's shadow, for it will 
 	swallow us in zealot fury and undo all we have striven for. We learn from 
