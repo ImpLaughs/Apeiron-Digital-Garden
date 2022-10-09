@@ -4,7 +4,7 @@
 
 # Race Information
 [[Race Information/Dragonborn/Origin of Dragonborn|Dragonborn Origins and Classifications]]
-[[The Web of Drow|The Web of Drow]]
+[[Race Information/Drow/Origin of Drow|Origin of Drow]]
 Genasi
 [[Race Information/Half-Orc/Origin of Half-Orc|Half-Orc Origins and Classifications]]
 Kobold
