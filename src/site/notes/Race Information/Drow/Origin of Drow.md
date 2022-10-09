@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/race-information/drow/origin-of-drow/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+[[Race Information/Race Information|Return to Race Landing Page]]
 # The Web of Drow
 The collective of Drow societies spread throughout Soven'dul is known as The Web of Drow (or The Web). The Web of Drow consisted of six distinct societies with different rule, regions, repsonsibilities, and customs. Though it is often a mistake to think The Web is a cooperative society within Soven'dul, as The Drow are firm believers in their customs and survival of the fittest/strongest. Though The Web will come together to support the Drow race, it is not often done without favors, support, gifts, trades, or sacrifice. 
 
