@@ -5,10 +5,22 @@
 
 Welcome to the world of Apeiron!
 
+## [[Assorted Lore/Assorted Lore|Assorted Lore]]
+A landing page for any pieces of information that don't fit precisely into the other pages.
+
 ## [[History/History|Historical Texts]]
+A landing page for the history and lore of Apeiron and her continents.
+
 ## [[Magical Lore Digital Garden|Magical Lore]]
+A landing page for information regarding magic and the various subsections connected therein.
+
 ## [[Monster Codex Digital Garden|Monster Codex]]
+A landing page for the information related to monsters, beasts, abberations, and more in Apeiron and beyond.
+
 ## [[Race Information/Race Information|Race Information]]
+A landing page for the information and descriptions of the various denizens of Apeiron.
+
 ## Apeiron Atlas
 ### Soven'dul Atlas
-#### [[Stronagia Atlas|Stronagia Atlas]]
+#### [[Apeiron Atlas/Soven'dul Atlas/Stronagia Atlas/Stronagia Atlas|Stronagia Atlas]]
+A landing page for information on the region of Stronagia and the Ferimore Empire.
