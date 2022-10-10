@@ -10,7 +10,7 @@ Beings created by [[The Metallic Dragons|The Metallic Dragons]] and [[The Chroma
 
 ## [[Race Information/Drow/Origin of Drow|Origin of Drow]]
 Elves that descended to [[Lolth, The Spiderqueen|Lolth, The Spiderqueen]] to avoid The Scale War that now live in the Underdark to spread their matron's will and make her whole once again.
-#### [[Race Information/Drow/Aspects of Lolth/Araushnee|Aspect of Araushnee]] , [[Race Information/Drow/Aspects of Lolth/Lareth|Aspect of Lareth]] , [[Race Information/Drow/Aspects of Lolth/Lothiriel|Aspect of Lothiriel]] , [[Race Information/Drow/Aspects of Lolth/Megwandiir|Aspect of Megwandiir]] , [[Race Information/Drow/Aspects of Lolth/Moandiir|Aspect of Moandiir]] , [[Race Information/Drow/Aspects of Lolth/Zanassu|Aspect of Zanassu]] , [[Race Information/Drow/Aspects of Lolth/Zinzerena|Aspect of Zinzerena]]
+#### [[Race Information/Drow/Aspects of Lolth/Araushnee|Aspects of Araushnee]] , [[Race Information/Drow/Aspects of Lolth/Lareth|Lareth]] , [[Race Information/Drow/Aspects of Lolth/Lothiriel|Lothiriel]] , [[Race Information/Drow/Aspects of Lolth/Megwandiir|Megwandiir]] , [[Race Information/Drow/Aspects of Lolth/Moandiir|Moandiir]] , [[Race Information/Drow/Aspects of Lolth/Zanassu|Zanassu]] , [[Race Information/Drow/Aspects of Lolth/Zinzerena|Zinzerena]]
 
 ## Genasi
 
