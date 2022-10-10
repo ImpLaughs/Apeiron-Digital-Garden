@@ -8,6 +8,9 @@ Welcome to the world of Apeiron!
 ## [[Assorted Lore/Assorted Lore|Assorted Lore]]
 A landing page for any pieces of information that don't fit precisely into the other pages.
 
+## [[Divine Beings|Divine Beings]]
+A landing page for a comprehensive explanation and examination of beings of the divine nature.
+
 ## [[History/History|Historical Texts]]
 A landing page for the history and lore of Apeiron and her continents.
 
