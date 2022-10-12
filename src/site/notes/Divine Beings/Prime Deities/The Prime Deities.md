@@ -8,6 +8,7 @@
 	stardust. Glory to the Morninglord and His Court!" - Sunrise Lord, High 
 	Priest of Lathander 
 
+Test
 Click to return to [[Divine Beings/Divine Beings|Divine Beings home.]]
 
 | Name                              | Epithet            | Domain                    | Alignment       | Holy Day                          | Plane            |
