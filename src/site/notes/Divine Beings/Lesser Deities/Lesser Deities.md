@@ -6,7 +6,7 @@
 	"Though their light shines upon Apeiron, they are but distant stars to the 
 	Sol of The Prime." - Sunrise Lord, High Priest of Lathander
 
-- [[Divine Beings/Lesser Deities/Individual/Sharindlar|Sharindlar]] (sha-RIHN-dlar), The Shining Dancer
+[[Divine Beings/Lesser Deities/Individual/Sharindlar|Sharindlar]] (sha-RIHN-dlar), The Shining Dancer
 	- *Domain:* Charm, Healing, Chaos
 	- *Alignment:* Chaotic Good
 	- *Holy Day:* Night of Gaiety (Aoiden 8)
