@@ -6,6 +6,12 @@
 	"Though their light shines upon Apeiron, they are but distant stars to the 
 	Sol of The Prime." - Sunrise Lord, High Priest of Lathander
 
+- Sharindlar (sha-RIHN-dlar), The Shining Dancer
+	- *Domain:* Charm, Healing, Chaos
+	- *Alignment:* Chaotic Good
+	- *Holy Day:* Night of Gaiety (Aoiden 8)
+	- *Plane:* Ysgard
+
 | Name                       | Epithet            | Domain                | Alignment    | Holy Day                   | Plane  |
 | -------------------------- | ------------------ | --------------------- | ------------ | -------------------------- | ------ |
 | [[Sharindlar|Sharindlar]] (sha-RIHN0dlar) | The Shining Dancer | Charm, Healing, Chaos | Chaotic Good | Night of Gaiety (Aoiden 8) | Ysgard |
