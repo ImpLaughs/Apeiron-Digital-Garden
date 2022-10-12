@@ -6,6 +6,12 @@
 	"Though their light shines upon Apeiron, they are but distant stars to the 
 	Sol of The Prime." - Sunrise Lord, High Priest of Lathander
 
+[[Ilmater|Ilmater]] (iLL-mah-tor), The Broken God
+	- *Domain:* Strength, Suffering, Life
+	- *Alignment:* Lawful Good
+	- *Holy Day:* 
+	- *Plane:* Bytopia
+
 [[Divine Beings/Lesser Deities/Individual/Sharindlar|Sharindlar]] (sha-RIHN-dlar), The Shining Dancer
 	- *Domain:* Charm, Healing, Chaos
 	- *Alignment:* Chaotic Good
