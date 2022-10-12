@@ -3,12 +3,14 @@
 ---
 
 # The Prime Deities
-	"The Twelve Divine stood fast against The Betrayers. Without their 
+	"The Prime stood fast against The Titans of Elements. Without their 
 	intervention and protection, we would be but specks upon the face of 
 	stardust. Glory to the Morninglord and His Court!" - Sunrise Lord, High 
 	Priest of Lathander 
 
 Click to return to [[Divine Beings/Divine Beings|Divine Beings home.]]
+
+The Prime Deities are the Creator dieties who chose to stay and help Apeiron fight back against [[Primordial Titans|The Primordial Titans]] during the Umbral Era. [[Divine Beings/Prime Deities/Individual/Wee Jas|The Ruby Sorceress]] is also typically grouped with the Prime Deities, despite not being a Creator.
 
 [[Divine Beings/Prime Deities/Individual/Beory|Beory]] (bay-Oh-ree), The Oerth Mother
 	- *Domain*: Nature, Earth, Water
