@@ -11,7 +11,3 @@
 	- *Alignment:* Chaotic Good
 	- *Holy Day:* Night of Gaiety (Aoiden 8)
 	- *Plane:* Ysgard
-
-| Name                       | Epithet            | Domain                | Alignment    | Holy Day                   | Plane  |
-| -------------------------- | ------------------ | --------------------- | ------------ | -------------------------- | ------ |
-| [[Sharindlar|Sharindlar]] (sha-RIHN0dlar) | The Shining Dancer | Charm, Healing, Chaos | Chaotic Good | Night of Gaiety (Aoiden 8) | Ysgard |
