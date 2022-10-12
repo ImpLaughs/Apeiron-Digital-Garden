@@ -19,7 +19,7 @@ To persist in life without a body is to be a specter, a ghost to walk among the 
 	"Next to die is the mind. Everything you have thought, or ever will think, 
 	will be gone forever." - Mivildir, The Mortician of Life
 
-The second thing to begin to fade and decay in death, is the mind of a creature. To lose one's mind is to lose their independent thought gifted to them by [[The Prime Deities|The Prime Deities]]. This absence of mind allows others to impose their own will upon a corpse. Though the body is the most fragile on the plane, the mind is the easiest target to hit. The mind is what binds an entity to their agency in Apeiron, and to be without it is to be an empty cup, ready to be filled with something else entirely. 
+The second thing to begin to fade and decay in death, is the mind of a creature. To lose one's mind is to lose their independent thought gifted to them by [[Divine Beings/Prime Deities/The Prime Deities|The Prime Deities]]. This absence of mind allows others to impose their own will upon a corpse. Though the body is the most fragile on the plane, the mind is the easiest target to hit. The mind is what binds an entity to their agency in Apeiron, and to be without it is to be an empty cup, ready to be filled with something else entirely. 
 
 To persist in life without the mind is to be a walking corpse (ghoul, zombie, skeleton, or similar ilk) cursed to feed or obey upon the realm of Apeiron.
 ## Spirit
