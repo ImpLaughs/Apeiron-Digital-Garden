@@ -5,7 +5,8 @@
 # The Prime Deities
 	"The Twelve Divine stood fast against The Betrayers. Without their 
 	intervention and protection, we would be but specks upon the face of 
-	stardust. Glory to the Morninglord and His Court!" - Sunrise Lord 
+	stardust. Glory to the Morninglord and His Court!" - Sunrise Lord, High 
+	Priest of Lathander 
 
 | Name                              | Epithet            | Domain                    | Alignment       | Holy Day                          | Plane            |
 | --------------------------------- | ------------------ | ------------------------- | --------------- | --------------------------------- | ---------------- |
