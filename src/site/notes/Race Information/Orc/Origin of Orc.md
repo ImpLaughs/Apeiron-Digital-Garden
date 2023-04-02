@@ -6,7 +6,7 @@
 # Orc
 	"They embody the Wild itself. To face an orc is to face nature's wrath. Best 
 	avoided, but if one cannot...prove your worth and your blood. Maybe you'll 
-	survive." - Fandel's Guide to Survival
+	survive." - Lyra's Guide to Survival
 
 [[Race Information/Half-Orc/Origin of Half-Orc|Click for Half-Orc Information]]
 ## Summary
