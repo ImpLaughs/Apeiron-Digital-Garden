@@ -7,7 +7,7 @@
 	"They embody the Wild in a cage. To face a half-orc is to face a storm of 
 	temptation and potential. It is best to not judge a book by its cover with 
 	them, for there are outliers even within the clans. No two are alike." - 
-	Fandel's Guide to Survival
+	Lyra's Guide to Survival
 
 [[Race Information/Orc/Origin of Orc|Click for Orc Information]]
 ## Summary
