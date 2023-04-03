@@ -15,6 +15,10 @@ Elves that descended to [[Lolth, The Spiderqueen|Lolth, The Spiderqueen]] to avo
 ## [[Race Information/Elves/Origin of Eladrin|Eladrin Origins and Classifications]]
 Ancient beings exiled from their home by [[Divine Beings/The Prime Deities/Individual/Corellon|Corellon, the Archeart]] for seeking their own freedom. They have found a home in a piece of their homeland, in a land of light and magic. 
 
+## [[Race Information/Elves/Origin of Elves|Elf Origins and Classifications]]
+The result of answering a call and being abandoned by their home as a result. They live among the mortals, seeking to walk the line of intervention and isolation.
+
+
 ## Genasi
 
 ## [[Race Information/Half-Orc/Origin of Half-Orc|Half-Orc Origins and Classifications]]
