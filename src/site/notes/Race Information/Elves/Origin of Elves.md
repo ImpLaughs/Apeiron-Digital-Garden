@@ -4,10 +4,7 @@
 
 [[Race Information/Race Information|Return to Race Landing Page]]
 # Elves
-	"We have lost as much as we have given, and it is with these choices that we press 
-	onward like the seasons. Our interference led to demise, yet our isolation would lead to 
-	catastrophe. We gracefully walk this line, and must take heed of what may lead us from 
-	our home again." - Niamh, First Elven Historian
+	"We have lost as much as we have given, and it is with these choices that we press onward like the seasons. Our interference led to demise, yet our isolation would lead to catastrophe. We gracefully walk this line, and must take heed of what may lead us from our home again." - Niamh, First Elven Historian
 	
 [[Origin of Half-Elves|Click for Half-Elf Information]]
 [[Race Information/Elves/Origin of Eladrin|Click for Eladrin Information]]
