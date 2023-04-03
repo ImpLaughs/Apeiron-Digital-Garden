@@ -10,7 +10,7 @@
 	consequences of their choices weighs heavy on their heads." 
 	- Lyra's Guide to Survival
 	
-[[Origin of Elves|Click for Elf Information]]
+[[Race Information/Elves/Origin of Elves|Click for Elf Information]]
 
 ## Summary
 A collection of people from another realm. They existed within a realm of wood and light, where nature itself held sway over its denizens. Following the foresaking by their creator, [[Divine Beings/The Prime Deities/Individual/Corellon|Corellon]], the Eladrin left their home with pieces of it within them, only to find a place that would be their true calling. Not seen frequently in Apeiron, they stay to their realm of The Feywild typically, but many see their kin in the Elves of Apeiron. 
